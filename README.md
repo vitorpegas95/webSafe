@@ -7,8 +7,9 @@ This uses AES 256 cipher to allow you to encrypt plain text using just a simple 
 Demo available here: <a href="http://oryzhon.com/webSAFE/">webSAFE DEMO</a>
 
 This project was built using:
--CryptoJS
--JS Packer
--JS File Saver
+<ul>
+<li>CryptoJS</li>
+<li>JS Packer</li>
+<li>JS FileSaver</li>
 
 The previous libraries are not owned by me, and their license may change.
